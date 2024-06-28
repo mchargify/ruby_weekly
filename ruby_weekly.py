@@ -1,3 +1,5 @@
+# https://github.com/mchargify/ruby_weekly
+
 import requests
 from bs4 import BeautifulSoup
 import openai
