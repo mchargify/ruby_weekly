@@ -1,0 +1,719 @@
+Link: https://cooperpress.com/spam.html
+Streszczenie: Cooper Press Ltd, wydawca cotygodniowych newsletterów, podkreśla, że nie angażuje się w spam ani niechcianą korespondencję handlową. Newslettery są wysyłane wyłącznie do osób, które wyraźnie się na nie zapisały (double opt-in). Reklamy w newsletterach są umieszczane w sposób delikatny, a firma nie współpracuje z reklamodawcami zajmującymi się masowymi, niechcianymi kampaniami marketingowymi. Adresy e-mail subskrybentów są bezpiecznie przechowywane przez certyfikowanych dostawców zewnętrznych i nigdy nie były ani nie będą sprzedawane bądź wynajmowane innym podmiotom. Firma poważnie traktuje swoją reputację i starannie unika jakiegokolwiek powiązania ze spamem.
+
+Zgodnie z brytyjską ustawą o ochronie danych osobowych z 1998 roku, każdy może zażądać dostępu do informacji, które Cooper Press Ltd posiada na jego temat. W celu uzyskania takich danych należy skontaktować się przez wskazany adres e-mail (team@cooperpress.com). 
+
+Cooper Press Ltd jest zarejestrowana w Anglii (#07625723), a biuro znajduje się pod adresem: Fairfield Enterprise Centre, Fairfield Industrial Estate, Louth, LN11 0LS, UK. Firma spełnia standardy zgodności z PCI DSS. Wszelkie prawa zastrzeżone © 2011 - 2024.
+
+Link: https://cooperpress.com/legal/privacy/
+Streszczenie: Cooper Press Ltd zapewnia ochronę prywatności użytkowników i nie udostępnia ich danych osobowych stronom trzecim. Firma zbiera informacje takie jak imię, nazwisko, adres e-mail oraz adres zamieszkania w celu korzystania z niektórych usług, zawsze prosząc o zgodę na ich przetwarzanie. Dane karty kredytowej/debetowej nie są przechowywane. Witryny Cooper Press mogą używać plików cookie do śledzenia sesji użytkownika oraz Google Analytics do analizy ruchu na stronie, zgodnie z polityką prywatności Google.
+
+Informacje zebrane od użytkowników są używane do monitorowania relacji z firmą, wysyłania żądanych informacji oraz promocyjnych wiadomości związanych tylko z Cooper Press. Czasem mogą być wysyłane ankiety lub bezpośrednie wiadomości w celu lepszego zarządzania obsługą klienta. Sponsorzy mogą być obecni w e-mailach, które użytkownicy zdecydowali się otrzymywać, ale nie będą wysyłane e-maile wyłącznie w celach reklamowych stron trzecich.
+
+Dane użytkowników nie są udostępniane innym bez zgody, chyba że jest to wymagane przez prawo. Informacje osobiste nie są zbierane od dzieci poniżej 13 lat. Użytkownicy mają prawo do dostępu do swoich danych zgodnie z ustawą o ochronie danych z 1998 roku (Data Protection Act 1998). 
+
+Cooper Press Ltd jest zarejestrowana w Anglii (numer rejestracyjny 07625723) i jest zgodna z PCI DSS.
+
+Link: https://rubyweekly.com/link/156313/web
+Streszczenie: W najnowszym wydaniu Ruby Weekly, głównymi tematami są:
+
+1. **Nowości**:
+   - **Ruby 3.3.3**: Wydana została nowa wersja Ruby, która nie wnosi nowych funkcji, ale aktualizuje kluczowe zależności (takie jak RubyGems i REXML) oraz naprawia błędy. Jest to zalecana aktualizacja produkcyjna.
+   - **Moratorium na zmiany składni**: Yukihiro 'Matz' Matsumoto ogłosił na RubyKaigi, że nie będzie żadnych zmian składni do wersji 3.4, poza naprawami błędów.
+   - **Wsparcie dla starych wersji Rails**: Makandra oferuje wsparcie dla starych wersji Rails, dostarczając zamienniki Gemów i zgodność z nowoczesnymi wersjami Ruby.
+   - **Parser Prism**: Kevin Newton pracuje nad Prism, nowym parserem Ruby, ale Matz chce, aby był on dokładnie przetestowany przed jego potencjalnym przejęciem jako domyślny parser Ruby 3.4.
+
+2. **Wydarzenia**:
+   - **RubyConf 2024**: Odbędzie się w listopadzie w Chicago. Zgłoszenia na wystąpienia są otwarte do 8 lipca.
+   - **AI Engineer World's Fair**: Wydarzenie odbędzie się w San Francisco, oferując 30% zniżki na bilety oraz możliwość bezpłatnego uczestnictwa przez stream.
+
+3. **Artykuły i tutoriale**:
+   - **Asynchroniczność w Ruby on Rails**: Matheus Richard opisuje metody dodawania asynchroniczności do aplikacji Rails oraz inne techniki, które mogą je usprawnić.
+   - **Zamiana testów systemowych na jednostkowe**: Aaron Sumner omawia podejście do zastępowania testów systemowych jednostkowymi po stwierdzeniu przez DHH, że testy systemowe zawiodły.
+   - **Integracja GPT-4o z Rails 7**: Luigi Rojas pokazuje, jak prosta jest integracja GPT-4 z aplikacją Rails przy użyciu Turbo Streams.
+
+4. **Narzędzia i nowe wersje**:
+   - **RBS::Inline**: Soutaro Matsumoto prezentuje narzędzie do pisania deklaracji typów RBS inline, co może być alternatywą dla osobnych plików RBS.
+   - **RSpec::Wait 1.0**: Steve Richert wprowadza narzędzie do testowania interakcji asynchronicznych w RSpec poprzez oczekiwanie na warunki.
+   - **GemUpdater 7.2**: Maxime Demolin prezentuje narzędzie do aktualizacji Gemów w Gemfile wraz z odczytem changelogów.
+
+5. **Dodatkowe zasoby i informacje**:
+   - **Timecop**: Narzędzie do symulowania czasu w aplikacjach Ruby.
+   - **Administrate**: Elastyczny silnik do budowy paneli administracyjnych dla aplikacji Rails, prezentowany przez thoughtbot.
+   - Nowe wersje i aktualizacje bibliotek, takie jak ruby-duckdb, Neovim Ruby, httplog, ruby-macho, Torch.rb, Rover, reCAPTCHA, Refer, Ruby OpenAI oraz Octokit.
+
+Artykuł ten oferuje wiele cennych informacji o najnowszych narzędziach, aktualizacjach oraz wydarzeniach związanych z Ruby i Ruby on Rails, co jest niezwykle przydatne dla programistów i entuzjastów tego języka.
+
+Link: https://rubyweekly.com/link/156314/web
+Streszczenie: Streszczenie:
+
+Starsze wersje frameworka Ruby on Rails, po kilku latach używania, osiągają koniec życia (EOL), co oznacza, że społeczność Rails przestaje dostarczać aktualizacje zabezpieczeń dla krytycznych podatności. Gdy wsparcie społeczności dla popularnej wersji Rails kończy się, za utrzymanie i dostarczanie poprawek zabezpieczeń przejmuje Rails LTS. Gdy pojawia się nowe ostrzeżenie o podatności, Rails LTS wydaje nową wersję gemów z poprawkami.
+
+Makandra, zespół doświadczonych programistów Rails i inżynierów operacyjnych, stoi za Rails LTS. Makandra jest finansowo niezależna, utrzymuje około 50 aplikacji Rails, z których niektóre działają od 2007 roku, a wiele z nich korzysta z Rails LTS.
+
+W 2013 roku, kiedy zespół core Rails przestał wspierać Rails 2, makandra miała wiele aplikacji na Rails 2.3, które nie były aktywnie rozwijane funkcjonalnie. Zamiast aktualizacji, zespół zdecydował się na fork Rails, zaczynając łatać znane podatności. Ten fork przekształcił się w Rails LTS.
+
+Nie planuje się zakończenia wsparcia dla żadnej wersji Rails LTS. Oczekuje się, że jeśli kiedykolwiek zakończą wsparcie, zostanie to ogłoszone z co najmniej rocznym wyprzedzeniem.
+
+Ważne jest, aby utrzymywać starsze aplikacje Rails na wspieranej wersji. Rails LTS oferuje swobodę aktualizacji w dowolnym momencie lub pozostania na starej wersji bezterminowo. Planowane jest wydanie Rails 6.1 LTS przed zakończeniem wsparcia dla Rails 6.
+
+Rails LTS zawiera opcjonalne funkcje zabezpieczeń, które można włączyć. W przypadku potrzeby dodatkowych informacji lub wsparcia, można się z nimi skontaktować.
+
+Link: https://rubyweekly.com/link/156315/web
+Streszczenie: Ruby 3.3.3 został wydany 12 czerwca 2024 roku przez k0kubun. Nowa wersja zawiera różnorodne ulepszenia i poprawki, które można szczegółowo przejrzeć na GitHubie. Pliki do pobrania są dostępne w różnych formatach, w tym tar.gz, tar.xz i zip. Wydanie to było możliwe dzięki wielu współtwórcom, deweloperom i użytkownikom, którzy zgłaszali błędy oraz sugerowali usprawnienia. Strona jest dostępna w wielu językach, w tym po polsku, i jest dumnie utrzymywana przez członków społeczności Ruby.
+
+Link: https://rubyweekly.com/link/156315/web
+Streszczenie: 12 czerwca 2024 roku k0kubun ogłosił wydanie Ruby 3.3.3. Ta wersja zawiera różne aktualizacje, poprawki i nowe funkcje. Szczegółowe informacje na temat zmian można znaleźć w wydaniach na GitHubie. Ponadto zamieszczono linki do pobrania Ruby 3.3.3 w formatach tar.gz, tar.xz oraz zip. W przygotowaniu tej wersji uczestniczyło wielu współtwórców, programistów oraz użytkowników, którzy zgłaszali błędy. Społeczność Ruby dziękuje wszystkim za ich wkład. Strona internetowa Ruby dostępna jest w różnych językach, w tym po polsku, i jest utrzymywana przez członków społeczności Ruby.
+
+Link: https://rubyweekly.com/link/156316/web
+Streszczenie: Yukihiro Matsumoto, znany również jako Matz, ogłosił 17 dni temu wprowadzenie moratorium na zmiany w składni języka Ruby, zgodnie z obietnicą złożoną podczas końcowego przemówienia na konferencji RubyKaigi. Celem tego moratorium jest wsparcie uczciwego rozwoju różnych parserów języka Ruby. W okresie trwania moratorium nie będą wprowadzane nowe zmiany w składni (z wyjątkiem poprawek błędów). Moratorium to zakończy się wraz z wydaniem wersji 3.4 języka Ruby, ponieważ deweloperzy parserów poinformowali, że nie potrzebują dłuższego okresu czasu.
+
+Link: https://rubyweekly.com/link/156314/web
+Streszczenie: Artykuł opisuje koniec okresu wsparcia dla starszych wersji Ruby on Rails (EOL) oraz dalsze prace nad zabezpieczeniami realizowane przez Rails LTS po zakończeniu wsparcia przez społeczność. Gdy oficjalne wsparcie ustaje, Rails LTS przejmuje odpowiedzialność za dostarczanie łatek bezpieczeństwa, aktualizując aplikacje po wykryciu nowych luk bezpieczeństwa.
+
+Rails LTS nie planuje kończyć wsparcia dla żadnej ze swoich wersji, ale gdyby zamierzano to zrobić, użytkownicy otrzymaliby co najmniej roczną informację z wyprzedzeniem. Makandra, zespół doświadczonych programistów i inżynierów operacyjnych, jest odpowiedzialny za Rails LTS. Firma jest niezależna od funduszy venture capital i utrzymuje około 50 aplikacji Rails, w tym bardzo stare, sięgające 2007 roku.
+
+Rails LTS powstało, gdy zespół Makandra postanowił kontynuować wsparcie dla aplikacji opartych na Rails 2 po zakończeniu oficjalnego wsparcia w 2013 roku. Zamiast aktualizować aplikacje, Makandra zaczęła łatki znanych luk bezpieczeństwa, tworząc własną odnogę frameworka Rails, znaną teraz jako Rails LTS.
+
+Rails LTS oferuje elastyczność, pozwalając użytkownikom utrzymywać stare wersje aplikacji tak długo, jak chcą, bez ryzyka zakończenia wsparcia. Przewiduje się, że po wydaniu Rails 8, wersja Rails 6 przestanie być wspierana przez społeczność. Rails LTS planuje jednak wypuścić wersję 6.1 LTS przed osiągnięciem tego punktu, zapewniając dalsze wsparcie dla aplikacji opartych na Rails 6.1.
+
+Użytkownicy mogą skontaktować się z Rails LTS w sprawie dodatkowych informacji lub wsparcia. Rails LTS oferuje również opcjonalne funkcje zabezpieczeń, które można włączyć według potrzeb.
+
+Link: https://rubyweekly.com/link/156314/web
+Streszczenie: Po kilku latach użytkowania, starsze wersje frameworka Ruby on Rails osiągają koniec swojego cyklu życia (EOL). Oznacza to, że zespół wolontariuszy z Rails community, który dba o aktualizacje i wsparcie, przestaje dostarczać patchy bezpieczeństwa na krytyczne luki.
+
+Gdy społeczność Rails przestaje wspierać popularne wersje Rails, do akcji wkracza Rails LTS, który przejmuje utrzymanie i zapewnia dalsze poprawki bezpieczeństwa. W momencie opublikowania nowego ogłoszenia o bezpieczeństwie na oficjalnej liście Rails lub zgłoszenia go bezpośrednio do nas, natychmiast naprawiamy lukę i publikujemy nową wersję gemów Rails LTS.
+
+Nie planujemy zakończenia wsparcia dla jakiekolwiek wersji Rails LTS. Jeśli mielibyśmy zakończyć wsparcie dla którejś z wersji, z wyprzedzeniem co najmniej roku damy o tym znać.
+
+Nazywamy się makandra, jesteśmy zespołem doświadczonych deweloperów Rails i inżynierów zajmujących się operacjami. Możecie nas znać z naszych poradników na makandra cards.
+
+Makandra to działalność dochodowa, niezależna od finansowania VC. Aktualnie utrzymujemy około 50 aplikacji Rails, niektóre z nich są tak stare, jak z 2007 roku, a wiele z nich działa na Rails LTS.
+
+Gdy zespół Rails przestał wspierać Rails 2 w 2013 roku, wciąż mieliśmy wiele aplikacji działających na Rails 2.3, jednakże wiele z nich nie było już aktywnie rozwijanych. Zamiast je aktualizować, zdecydowaliśmy się na fork Rails i zaczęliśmy łatać znane luki bezpieczeństwa. Fork ten ostatecznie stał się Rails LTS.
+
+Ważne jest, aby utrzymywać aplikację na wersji obsługiwanej, dlatego Rails LTS daje możliwość aktualizacji w dowolnym momencie lub pozostawania na starej wersji na czas nieokreślony. Nie planujemy zakończenia wsparcia dla żadnych wersji Rails LTS.
+
+Zazwyczaj społeczność Rails wspiera dwie najnowsze główne wersje. Gdy tylko zostanie wydany Rails 8, wersja Rails 6 osiągnie EOL, po czym aplikacje w tej wersji nie będą chronione przed zagrożeniami bezpieczeństwa. Planujemy wydać Rails 6.1 LTS przed tym momentem, abyście mogli pozostać na Rails 6.1.
+
+Skontaktuj się z nami, jeśli potrzebujesz dodatkowych informacji lub wsparcia.
+
+Rails LTS zawiera dodatkowe opcjonalne funkcje bezpieczeństwa, które można włączyć.
+
+Link: https://rubyweekly.com/link/156317/web
+Streszczenie: Artykuł omawia propozycję przełączenia domyślnego parsera dla Ruby na Prism na gałęzi głównej projektu Ruby. Celem jest wprowadzenie tej zmiany zarówno do gałęzi głównej, jak i następnej wersji podglądowej, aby społeczność miała odpowiednio dużo czasu na testowanie przed wydaniem Ruby 3.4.
+
+Matz (Yukihiro Matsumoto, twórca Ruby) wskazał, że ostateczna decyzja dotycząca domyślnego parsera dla Ruby 3.4 zostanie podjęta później w tym roku. Decyzje dotyczące domyślnego parsera dla wersji Ruby 3.5+ oraz relacji pomiędzy Prism, lrama, parse.y, itp., również zostaną podjęte w przyszłości.
+
+Prism jest projektowany jako parser, który już przeszedł wszystkie testy i specyfikacje Ruby. Wewnątrz Shopify również przeszedł testy w dużej i złożonej aplikacji Rails. Dzięki adopcji Prism przez społeczność udało się znaleźć i naprawić wiele błędów i przypadków brzegowych. Jednakże, chociaż Prism poprawnie akceptuje i parsuje wszystkie poprawne składnie Ruby, istnieją przypadki, w których nie odrzuca niepoprawnej składni. Obecnie trwają prace nad tymi przypadkami, które są priorytetem do rozwiązania przed następnym wydaniem podglądowym.
+
+W artykule zaznaczono również, że mogą istnieć nieznane problemy z Prism, które jeszcze nie zostały odkryte. Shopify podejmuje wiele kroków, aby zminimalizować to ryzyko, dążąc do 100% zgodności. Propozycja zmiany ma na celu umożliwienie większej liczbie firm testowanie ich kodów z Prism, co powinno przyspieszyć eliminację pozostałych problemów.
+
+Z technicznego punktu widzenia implementacja będzie stosunkowo prosta, ponieważ istnieje już flaga --parser, której można użyć do przełączania między current parser a Prism. Domyślny parser zostanie zmieniony na "prism" zamiast "parse.y", bez planów usuwania lub zmiany kodu związanego z parse.y, lrama czy compile.c, aby zachować stabilność.
+
+Artykuł kończy się stwierdzeniem, że Prism osiągnie odpowiednią jakość dzięki testom na szeroką skalę i zgadza się z uczynieniem go domyślnym w wersjach podglądowych (po przejściu wszystkich testów). Ostateczna decyzja o jego statusie w Ruby 3.4 będzie zależała od jakości.
+
+Link: https://rubyweekly.com/link/156318/web
+Streszczenie: Prism to nowa biblioteka dostępna w Ruby 3.3.0 jako domyślny gem, oferująca dostęp do nowego parsera języka Ruby. Została zaprojektowana, aby być tolerancyjna na błędy, przenośna, łatwa w utrzymaniu, szybka i wydajna. Parser Prism można używać poprzez bibliotekę prism, wykorzystując różne metody parsowania dostępne w module Prism. Zwraca on obiekt zawierający drzewo składniowe kodu źródłowego, listy błędów, ostrzeżeń, komentarzy oraz inne metadane związane z operacją parsowania.
+
+Projekt Prism rozpoczął się w 2021 roku w Shopify, gdzie potrzeba szybki i efektywny parser była oczywista. Shopify utrzymywało cztery różne parsery do Ruby, co wiązało się z dużą ilością pracy. Zespół konsultował się z twórcami różnych projektów, aby stworzyć jedną uniwersalną implementację. Po półtora roku pracy, projekt został opublikowany jako open source i zintegrowany z różnymi projektami w ekosystemie Ruby.
+
+Prism to ręcznie napisany, rekurencyjny parser zstępujący, wykonany w C99, a jego struktura jest dużą modyfikacją parsera Pratt. Obsługuje nadzbiory kodu Ruby, co pozwala na lepsze odzyskiwanie po błędach. Parser jest także zoptymalizowany pod kątem wydajności i oszczędności pamięci. Współpracuje z różnymi narzędziami, takimi jak CRuby, JRuby, TruffleRuby i Natalie, które zintegrowały Prism jako zamiennik swoich parserów.
+
+Ważną cechą Prism jest tolerancja na błędy, co jest kluczowe dla dobrego doświadczenia programisty. Parser jest w stanie przetwarzać kod zawierający błędy składniowe, co jest niezbędne podczas jego tworzenia. Zespół projektowy blisko współpracował z twórcami serwerów języka Ruby LSP, aby zapewnić odpowiednie parsowanie kodu i zwracanie użytecznych błędów końcowym użytkownikom.
+
+Prism jest również łatwy w utrzymaniu dzięki dokumentacji i testom każdego węzła i pola w drzewie składni. Projekt jest ciągle rozwijany z myślą o długofalowej utrzymalności i wsparciu ekosystemu Ruby.
+
+Biblioteka oferuje API pozwalające na wieloraką współpracę z drzewem składniowym Ruby, w tym funkcje do znajdowania komentarzy czy walidacji kodu. Węzły w drzewie składniowym mają własne klasy i reagują na różne atrybuty dzieci i cechy. Prism implementuje wzorzec wizytora dla łatwego przechodzenia przez drzewo składniowe, co sprawia, że narzędzie jest wszechstronne w użyciu.
+
+Cele na przyszłość obejmują osiągnięcie pełnej zgodności z obecnym parserem CRuby, zwiększenie adopcji w społeczności Ruby, poprawę dokumentacji oraz dalszą optymalizację wydajności. Zespół planuje wykorzystać instrukcje SIMD i inne niskopoziomowe optymalizacje do dalszego ulepszania Prism.
+
+Podsumowując, Prism przynosi nowoczesne podejście do parsowania Ruby, obiecując lepsze narzędzia i doświadczenie programistyczne.
+
+Link: https://rubyweekly.com/link/156319/web
+Streszczenie: RubyConf odbędzie się w wyjątkowej lokalizacji z widokiem na Grant Park, Jezioro Michigan i Museum Campus, usytuowaną przy Michigan Avenue. Uczestnicy będą mieli możliwość łatwego dostępu do Soldier Field na mecze i koncerty, licznych festiwali w Grant Park oraz sąsiedztwa Pilsen, znanego z doskonałych muzeów oraz bogatej sceny barów i restauracji.
+
+Aby skorzystać ze specjalnej stawki konferencyjnej na pokoje hotelowe, warto zarezerwować miejsce z wyprzedzeniem. Szczegółowe informacje na temat konferencji można znaleźć w sekcji FAQ na stronie wydarzenia, a w razie dodatkowych pytań organizatorzy zachęcają do kontaktu mailowego.
+
+Firmy zainteresowane reklamowaniem swoich ofert pracy społeczności Ruby i Rails mogą skorzystać z tablicy ogłoszeń RubyConf. Osoby chętne do prowadzenia wystąpień lub warsztatów mają czas na złożenie swoich propozycji do 8 lipca do godziny 23:59 czasu wschodniego, zgodnie z określonymi wytycznymi.
+
+RubyConf jest organizowana przez Ruby Central, a jej sukces jest możliwy dzięki wsparciu społeczności. Firmy chcące pomóc w organizacji wydarzenia i zwiększyć swoją widoczność wśród uczestników mogą również skontaktować się z organizatorami.
+
+©2024 RubyConf. Wszelkie prawa zastrzeżone.
+
+Link: https://rubyweekly.com/link/156320/web
+Streszczenie: RubyConf organizowana przez Ruby Central to największe i najdłużej trwające spotkanie programistów Ruby, firm i entuzjastów na świecie. Jest to coroczna konferencja jesienna, podczas której programiści Ruby mogą spotykać się, słuchać wystąpień o nowych projektach, uczyć się od innych oraz dowiadywać się o najnowszych trendach w społeczności.
+
+W tym roku konferencja odbędzie się w Chicago, a organizatorzy poszukują prelegentów do wygłoszenia wystąpień oraz prowadzenia warsztatów, które są skierowane do osób o różnym poziomie zaawansowania. Konferencja planuje przyjąć więcej technicznych prezentacji w porównaniu do lat ubiegłych, pozostawiając mniej przestrzeni na wystąpienia nietechniczne. Nowi mówcy są szczególnie mile widziani i mogą liczyć na pomoc od trenera mówców oraz wsparcie ze strony Ruby Central.
+
+W trakcie trwania aktywnego okresu zgłoszeń Call for Proposals (CFP), odbędą się trzy sesje szkoleniowe, które zaplanowano na: 24 czerwca o godzinie 9:00 EST, 25 czerwca o godzinie 12:00 EST oraz 26 czerwca o godzinie 16:00 EST. Aby zarejestrować się na sesję szkoleniową, należy skorzystać z podanego linku.
+
+Mówcy, którzy zostaną wybrani, będą mieli przypisanego opiekuna mówców, który zapewni im wsparcie podczas wystąpienia. Organizatorzy poszukują wystąpień na różne tematy związane z Ruby, w tym również te nietechniczne.
+
+Prezentacje mogą trwać maksymalnie 30 minut, z możliwością (ale nie obowiązkiem) zadania kilku pytań. Warsztaty będą trwać dwie godziny z krótkimi przerwami i będą koncentrować się na praktycznych ćwiczeniach.
+
+Wszyscy zaakceptowani mówcy muszą przestrzegać polityki konferencji oraz zgodzić się na regulamin mówców. Przegląd zgłoszeń będzie anonimowy, zatem recenzenci nie będą widzieć danych osobowych zgłaszającego.
+
+Korzyści dla mówców obejmują darmową wejściówkę na wydarzenie oraz pokrycie kosztów hotelu w miejscu konferencji przez trzy noce. Ponadto mówcy mogą skorzystać z pomocy trenera mówców oraz opiekuna mówców na czas konferencji.
+
+Termin nadsyłania zgłoszeń CFP kończy się 22 lipca 2024 roku, a powiadomienia o wynikach zostaną wysłane do 6 sierpnia 2024 roku. W przypadku pytań związanych z CFP należy skontaktować się poprzez cfp@rubycentral.org, a inne pytania kierować na rubyconf@rubycentral.org.
+
+Link: https://rubyweekly.com/link/156321/web
+Streszczenie: Autor, będący programistą full-stack specjalizującym się w technologiach React, JavaScript i Ruby on Rails, opowiada o swoim doświadczeniu w pracy zdalnej z małej wioski przez ostatnie dwa lata oraz wcześniejszych zaangażowaniach, w tym założeniu startupu kwiq, który zajmował się dostarczaniem produktów w lokalnych społecznościach. 
+
+Główna część artykułu dotyczy używania argumentów słów kluczowych w Ruby, zwłaszcza w kontekście indeksowania tablic. W przeszłości argumenty słów kluczowych były traktowane jako argumenty pozycyjne, ale od wersji 3.3, użycie ich w indeksowaniu tablic jest niepoprawne i powoduje błąd składni (SyntaxError). Autor podkreśla, że nie jest już możliwe przekazywanie tych argumentów do metod modyfikujących tablice.
+
+Na końcu artykułu autor oferuje swoją pomoc w projektach opartych na Ruby on Rails lub React oraz zachęca do subskrypcji newslettera, aby być na bieżąco z jego postami.
+
+Link: https://rubyweekly.com/link/156322/web
+Streszczenie: AI Engineering World’s Fair to renomowane wydarzenie, gdzie spotykają się czołowe firmy AI, założyciele, wiceprezesi oraz inżynierowie AI. Podczas wydarzenia odbędzie się expo z udziałem ponad 30 firm, które przecierają szlaki w dziedzinie inżynierii AI, a także ponad 100 prelegentów, którzy poprowadzą wykłady i warsztaty w 9 różnych ścieżkach tematycznych. 
+
+Wydarzenie to skupia się wyłącznie na praktycznych zagadnieniach związanych z inżynierią AI, z uwzględnieniem najnowszych innowacji i narzędzi. Uczestnicy będą mieli okazję spotkać się z inżynierami i założycielami firm, które stoją za najnowszymi rozwiązaniami technologicznymi w AI, oraz wziąć udział w ponad 20 warsztatach dostosowanych do różnych poziomów zaawansowania – od początkujących po doświadczonych specjalistów.
+
+Konferencja oferuje bogaty program z 9 równoległymi ścieżkami i ponad 100 sesjami, co umożliwia elastyczne zaplanowanie uczestnictwa zgodnie z potrzebami biznesowymi. Wydarzenie obejmuje także sesje networkingowe oraz specjalne ścieżki dla wiceprezesów i dyrektorów technicznych, umożliwiając wymianę doświadczeń w małych grupach dyskusyjnych.
+
+W programie konferencji znajdują się również praktyczne warsztaty prowadzone przez topowych inżynierów, które odbędą się w głównej mierze 25 czerwca. Uczestnicy dowiedzą się m.in. jak szybko prototypować i wdrażać aplikacje generatywne AI z użyciem narzędzi takich jak AWS, GitHub, Microsoft Azure i SambaNova Systems oraz jak zoptymalizować jakość modeli LLM.
+
+Wydarzenie wyróżnia się również strefą expo, gdzie przedstawiciele firm zajmujących się najnowocześniejszymi technologiami AI zaprezentują swoje rozwiązania. Uczestnicy będą mogli spotkać się z liderami branży i dowiedzieć się, jak ich produkty i technologie mogą wspierać rozwój firm. 
+
+Dla posiadaczy specjalnych biletów "VP Pass" przygotowano dodatkowe atrakcje, takie jak ekskluzywne przyjęcie powitalne, sesje networkingowe i dyskusje w kameralnych grupach. Wszystkie te aktywności odbywać się będą w luksusowych warunkach, m.in. w salonie View Lounge na szczycie hotelu Marquis.
+
+Konferencja odbywa się w hotelu Marriott Marquis, który oferuje przestronne i nowocześnie wyposażone sale konferencyjne, a także dogodne położenie w centrum miasta, w pobliżu licznych restauracji, barów i atrakcji turystycznych. Na czas wydarzenia zarezerwowano także pokoje hotelowe w preferencyjnych cenach dla uczestników.
+
+Bilety na wydarzenie są już wyprzedane, jednak można dołączyć do darmowej transmisji online, która obejmie główne sesje i keynote’y. Wszyscy zainteresowani mogą zapisać się na newsletter, aby otrzymywać najnowsze informacje oraz dostęp do przyszłych wydarzeń.
+
+Link: https://rubyweekly.com/link/156323/web
+Streszczenie: The AI Engineer World's Fair to największe techniczne wydarzenie AI roku, które odbędzie się w dniach 25-27 czerwca. Jest to jedyne miejsce, gdzie można spotkać niemal każde duże laboratorium modelowe, takie jak OpenAI, Anthropic czy Cohere, każdą platformę chmurową od Azure po Groq, a także innowacyjne startupy AI i liderów AI z listy Fortune 500. Wydarzenie to służy trzem specyficznym grupom: ogólnym programistom, inżynierom AI oraz (nowość w tym roku) VP AI (Wiceprezesi ds. AI).
+
+Oferujemy 9 ścieżek tematycznych, ponad 30 wystawców, ponad 50 warsztatów/sesji i ponad 100 mówców. W trakcie wydarzenia będzie prowadzonych do 5 równoległych ścieżek, w tym ścieżka dla VP AI. Zachęcamy do przyprowadzenia zespołu: przy zakupie biletu dla VP i co najmniej 3 biletów konferencyjnych, po wysłaniu paragonu na info@ai.engineer, zwracamy koszt jednego biletu inżyniera.
+
+Pełne szczegóły są dostępne na stronie wydarzenia: https://www.ai.engineer/worldsfair
+
+Link: https://rubyweekly.com/link/156322/web
+Streszczenie: Artykuł opisuje "AI Engineer World's Fair" - wyjątkowe wydarzenie skupiające czołowe firmy z branży sztucznej inteligencji, założycieli start-upów, wiceprezesów ds. AI oraz inżynierów AI. Wydarzenie oferuje Expo z udziałem ponad 30 firm pionierskich w dziedzinie inżynierii AI oraz ponad 100 prelekcji i warsztatów podzielonych na 9 ścieżek tematycznych.
+
+Główny nacisk wydarzenia kładą na praktyczne zastosowania AI, w przeciwieństwie do teoretycznych prezentacji. Uczestnicy mają okazję spotkać i poznać inżynierów oraz założycieli firm, którzy pracują nad najnowszymi innowacjami w dziedzinie AI. Rozmowy pomiędzy uczestnikami mają na celu inspirowanie i edukowanie.
+
+Program obejmuje ponad 20 warsztatów, odpowiednich zarówno dla początkujących, jak i doświadczonych inżynierów AI, oraz możliwość personalizowania programu wydarzenia do własnych potrzeb biznesowych. W ramach wydarzenia dostępne są różnorodne sesje i warsztaty z największymi nazwiskami i firmami w branży. Dostępny jest również tor liderów, przeznaczony dla VP oraz dyrektorów, oferujący unikalne sesje i eventy networkingowe.
+
+Nadchodzące warsztaty będą obejmować tematy takie jak szybkie prototypowanie aplikacji AI, budowanie generatywnych aplikacji AI na platformach takich jak AWS, Azure, czy GitHub, oraz optymalizację jakości modeli LLM. Uczestnicy będą mieli szansę na praktyczne doświadczenie z najnowszymi narzędziami i platformami AI, prowadzonymi przez ekspertów w swoich dziedzinach.
+
+Wydarzenie odbędzie się w Marriott Marquis w San Francisco, z centralnie położonym ballroom do prelekcji oraz dedykowanymi przestrzeniami na warsztaty i sesje breakoutowe. Uczestnicy z biletami VP będą mieli dostęp do VIP welcome reception oraz specjalnych sesji networkingowych.
+
+Bilety na wczesny zakup oraz ogólne wejściówki są wyprzedane, ale dostępne są transmisje na żywo dla zarejestrowanych subskrybentów. Organizatorzy zachęcają do zapisania się na ich newsletter oraz śledzenie kanałów na YouTube i innych platformach społecznościowych w celu bieżącego dostępu do treści i przyszłych wydarzeń.
+
+Link: https://rubyweekly.com/link/156324/web
+Streszczenie: Artykuł omawia temat programowania asynchronicznego w Ruby on Rails i jego zastosowania w celu przyspieszenia działania aplikacji. Autor przedstawia dwa główne zasady asynchroniczności: opóźnianie wykonywania zadań tak długo, jak to możliwe, oraz aktywne wykonywanie innych zadań w międzyczasie, kiedy czekamy na zakończenie bieżących operacji.
+
+Pierwsza zasada sugeruje, że korzystanie z metod kończących się na `_now` powinno być uważane za potencjalne kandydaty do wykonywania asynchronicznego. Przykładem może być wysyłanie e-maili po rejestracji użytkownika, co można zrealizować z użyciem `deliver_later`, zamiast `deliver_now`, co zmniejszy czas oczekiwania na zakończenie żądania. Podobnie można wykonywać inne zadania, jak przetwarzanie danych czy zapisywanie statystyk w tle.
+
+Rails oferuje również różne mechanizmy do obsługi asynchronicznej, takie jak `purge_later` dla usuwania plików Active Storage czy `dependent: :destroy_async` dla asynchronicznego usuwania powiązanych rekordów.
+
+Druga zasada dotyczy proaktywnego rozpoczynania kolejnych zadań podczas oczekiwania na zakończenie bieżących. Przykładem jest użycie gema `async`, który pozwala inicjować kolejne żądania HTTP, gdy poprzednie są jeszcze w trakcie przetwarzania. Autor przedstawia kod, który dzięki temu przyspiesza operacje z 10 sekund do około 2 sekund.
+
+Rails 7 wprowadza `ActiveRecord::Relation#load_async`, co pozwala uruchamiać zapytania bazodanowe w tle. Dzięki temu kontroler może wykonać kilka zapytań równolegle, redukując całkowity czas wykonania. Autor ostrzega jednak przed nadmiernym użyciem tej funkcji, ponieważ może to wyczerpać zasoby wątków połączeń z bazą danych pod dużym obciążeniem.
+
+Dodatkowo, artykuł wspomina o użyciu Turbo Frames do ładowania części strony w tle oraz asynchronicznego ładowania zasobów, takich jak skrypty, CSS czy obrazy. Na przykład, obrazy można ładować z atrybutem `loading="lazy"`, co pozwala na ich ładowanie dopiero, gdy zbliżą się do widoku użytkownika.
+
+Na koniec artykuł omawia narzędzia asynchroniczne używane w środowiskach deweloperskich, takie jak indeksowanie tabel PostgreSQL z opcją `concurrently` czy równoległe testowanie wprowadzane w Rails 6.
+
+Autor podkreśla, że zastosowanie programowania asynchronicznego może uczynić aplikację szybszą, ale również bardziej skomplikowaną. Dobrze jest przed wprowadzeniem tych technik upewnić się, że podstawowe problemy wydajnościowe, takie jak indeksowanie kolumn bazy danych czy unikanie N+1 zapytań, zostały rozwiązane. Użycie asynchroniczności powinno być przemyślane i stosowane z umiarem.
+
+Link: https://rubyweekly.com/link/156325/web
+Streszczenie: Async to framework asynchronicznego I/O przeznaczony dla języka Ruby, bazujący na io-event. Jest zaprojektowany tak, aby umożliwić tworzenie kodu asynchronicznego, co może znacząco usprawnić działanie aplikacji, które korzystają z nieblokujących operacji we/wy. Jednym z takich projektów, który na tym skorzystał, jest tus-ruby-server, jak zauważył jego twórca, janko.
+
+Dokumentacja projektu Async zawiera różnorodne przewodniki, które pomogą nowym użytkownikom w lepszym zrozumieniu i wykorzystaniu tego frameworku. Obejmuje to:
+
+1. **Getting Started** - przewodnik krok po kroku jak dodać Async do swojego projektu i uruchomić kod asynchronicznie.
+2. **Asynchronous Tasks** - wyjaśnienie, jak działają zadania asynchroniczne i jak z nich korzystać.
+3. **Event Loop** - przegląd implementacji pętli zdarzeń.
+4. **Compatibility** - omówienie kompatybilności Async z Ruby i innymi frameworkami.
+5. **Best Practices** - zestaw najlepszych praktyk w używaniu Async.
+
+Projekt zachęca do współpracy, ale wszyscy kontrybutorzy muszą się zgodzić z dokumentem Developer Certificate of Origin oraz przestrzegać zasad Contributor Covenant, które określają standardy postępowania.
+
+Async jest więc doskonałym narzędziem do tworzenia reaktywnych aplikacji w Ruby, dzięki czemu można tworzyć wydajniejsze i bardziej responsywne systemy.
+
+Link: https://rubyweekly.com/link/156326/web
+Streszczenie: Artykuł omawia trudności związane z testowaniem systemowym w Ruby on Rails, zwracając uwagę, że testy te często są powolne, kruche i ostatecznie mało informacyjne. Autor, mając własne doświadczenia z testowaniem w Rails, wskazuje na problemy wynikające z nadmiernego polegania na testach end-to-end. 
+
+Autor przyznaje, że wiele problemów wynikało z jego własnych decyzji dotyczących pisania testów, i sugeruje, aby zamiast tego skupić się na mniejszych, bardziej precyzyjnych testach. Kluczowym punktem artykułu jest zaznaczenie, że baza danych jest integralną częścią modeli Active Record w Rails, co oznacza, że oddzielanie jej na siłę za pomocą mocków często jest niepotrzebne i problematyczne.
+
+Autor cytuje rozmowę z podcastu Tech Done Right, gdzie omawiano problematykę testowania z użyciem bazy danych w kontekście Rails. Wskazuje, że używanie rzeczywistej bazy danych w testach jest często bardziej praktyczne i mniej skomplikowane niż próby jej odseparowania.
+
+Autor doradza, by w przypadku testowania starać się minimalizować ilość pełnych testów end-to-end, a w zamian zwiększać pokrycie kodu przez mniejsze, bardziej precyzyjne testy jednostkowe czy integracyjne. Wskazuje również na narzędzia takie jak SimpleCov do mierzenia pokrycia kodu testami, które mogą pomóc w przenoszeniu pokrycia testów systemowych na inne poziomy testowania.
+
+Na koniec, autor wspomina o użyciu AI do generowania testów, sugerując jednocześnie, aby być ostrożnym i nie polegać ślepo na wygenerowanych sugestiach. Podkreśla, że AI powinno być używane jako narzędzie wspierające, a nie zastępujące wiedzę i kontekst, jaki posiadają programiści.
+
+Autor zachęca do wypróbowania jego sugestii i zmniejszenia liczby testów systemowych, aby poprawić efektywność i przejrzystość swojego testowania w aplikacjach Rails.
+
+Link: https://rubyweekly.com/link/156327/web
+Streszczenie: Artykuł jest napisany przez Davida Heinemeiera Hanssona, znanego jako DHH, który jest twórcą frameworku Ruby on Rails oraz współzałożycielem firmy Basecamp. Jego unikalne podejście do programowania oraz biznesu zyskało szerokie uznanie w branży technologicznej.
+
+W artykule, DHH opisuje swoje doświadczenia i filozofię związaną z tworzeniem oprogramowania. Skupia się na idei, że dobre oprogramowanie powinno być proste do zrozumienia i użycia. Zaangażowanie w społeczność open source oraz chęć dzielenia się wiedzą uważa za kluczowe elementy swojego sukcesu. Rubinowy kod (Ruby) według DHH powinien być elegancki i intuicyjny, co znalazło swoje odzwierciedlenie w projekcie Ruby on Rails.
+
+Hansson podkreśla także znaczenie balansu między pracą a życiem prywatnym. Krytykuje kulturę "hustle", promując podejście bardziej zrównoważone i zdrowe. Przedstawia swoje przemyślenia na temat produktywności i zarządzania czasem, argumentując, że przeciążenie pracą nie prowadzi do lepszych rezultatów, a wręcz przeciwnie, do wypalenia zawodowego.
+
+Pod koniec artykułu, David wspomina o HEY, nowej usłudze e-mailowej stworzonej przez Basecamp, która ma na celu rewolucjonizację sposobu, w jaki ludzie zarządzają swoją korespondencją elektroniczną. Podkreśla, że HEY jest wynikiem wieloletnich doświadczeń i ma na celu uproszczenie oraz usprawnienie codziennej komunikacji.
+
+Artykuł kończy się refleksją na temat przyszłości technologii i roli, jaką programiści powinni odgrywać w kształtowaniu bardziej inkluzywnego i zrównoważonego ekosystemu technologicznego. Hansson zachęca do odważnych decyzji, eksperymentowania oraz współpracy z innymi, aby tworzyć innowacyjne rozwiązania, które rzeczywiście mają pozytywny wpływ na społeczeństwo.
+
+Link: https://rubyweekly.com/link/156328/web
+Streszczenie: Artykuł omawia problem skalowania aplikacji uruchomionych na platformie Heroku, szczególnie w kontekście zwiększającego się ruchu użytkowników. Autor, Jon Sully, przedstawia trzy główne podejścia do radzenia sobie ze wzrastającymi wymaganiami dotyczącymi zasobów: ręczne zwiększanie liczby dynów, korzystanie z wbudowanej funkcji autoskalowania Heroku oraz wykorzystanie zewnętrznych dodatków do autoskalowania, takich jak Judoscale.
+
+1. **Ręczne skalowanie poprzez dodanie dynów (ang. "throw money at it")**:
+   - Polega na ustawieniu wyższej liczby dynów niż obecnie potrzebna, aby zabezpieczyć aplikację przed problemami związanymi z ruchem.
+   - Jest to kosztowne rozwiązanie i prowadzi do marnotrawstwa zasobów, ponieważ płacimy za niewykorzystane dynosy.
+   - Może być stosowane jako krótkoterminowe rozwiązanie, szczególnie podczas pracy nad wdrożeniem automatycznego skalowania.
+
+2. **Autoskalowanie oferowane przez Heroku**:
+   - Dostępne tylko dla klientow korzystających z `Perf` oraz `Private/Shield` dyny i tylko dla dynów webowych.
+   - Skalowanie oparte jest na czasie odpowiedzi (response time), co jest mniej efektywne i może prowadzić do przewymiarowania zasobów.
+   - Autoskalowanie Heroku jest wolno reagujące, co może prowadzić do problemów w przypadku gwałtownego wzrostu ruchu.
+
+3. **Wykorzystanie zewnętrznych dodatków do autoskalowania, na przykładzie Judoscale**:
+   - Judoscale monitoruje czas oczekiwania w kolejce (queue time) zamiast czasu odpowiedzi, co daje bardziej precyzyjne i szybkie skalowanie.
+   - Jest w stanie skalować zarówno dynosy webowe, jak i procesy w tle, co czyni aplikację elastyczną i zdolną do szybkiej reakcji na zmieniające się obciążenie.
+   - Judoscale działa na różnych typach dynów (Ruby, NodeJS, Python) i może być konfigurowany dla wszystkich skalowalnych procesów.
+
+**Podsumowanie**:
+W artykule zaleca się unikanie długoterminowego ręcznego skalowania z powodu wysokich kosztów i nieskuteczności. Autoskalowanie Heroku, chociaż wbudowane, ma swoje wady, w tym powolność i nieefektywność. Najbardziej efektywnym rozwiązaniem jest korzystanie z zewnętrznych dodatków do autoskalowania, takich jak Judoscale, który oferuje szybkie i precyzyjne dopasowanie liczby dynów do aktualnych potrzeb aplikacji. Judoscale umożliwia również skalowanie procesów w tle, co jest kluczowe dla aplikacji przetwarzających dużą liczbę zadań asynchronicznych.
+
+Link: https://rubyweekly.com/link/156329/web
+Streszczenie: Obecny krajobraz technologiczny jest pełen rosnącego zapotrzebowania na produkty i funkcje z zakresu sztucznej inteligencji, a programiści Ruby on Rails nie zostają w tyle. W tym przewodniku zamierzamy pokazać, jak łatwo można szybko zbudować aplikację lub funkcję skupioną na AI, korzystając z Turbo Streams i niezwykłych możliwości generowania tekstu przez GPT-4o (nie musi to być tylko chatbot!).
+
+Do integracji użyjemy gemu ruby-openai. Najpierw dodajemy gem "ruby-openai" do naszego Gemfile i instalujemy go przez bundle install. Następnie tworzymy plik initializer do przechowywania klucza API OpenAI, który powinien być bezpiecznie przechowywany w config/credentials.yml.enc lub jako zmienna ENV przy użyciu dotenv.
+
+Tworzenie konwersacji z ChatGPT jest proste: instancjujemy klasę OpenAi::Client i wywołujemy metodę odpowiadającą używanemu endpointowi, np. „/chat/completions”.
+
+Zanim przejdziemy do pracy nad połączeniem API, zdefiniujmy, co nasza aplikacja będzie robić. Naszym celem będzie stworzenie aplikacji, która generuje spersonalizowane zaproszenia na podstawie danych wejściowych od użytkowników.
+
+Zaczniemy od bazy danych:
+Diagram modeli bazuje na interakcji z GPT: konwersacji. LetterCreator reprezentuje chatroom, a Letter pojedynczą wiadomość. Ta warstwa abstrakcji pozwala na bardziej konwencjonalne doświadczenie użytkownika.
+
+Tworzymy modele, dodajemy odpowiednie asocjacje i kontrolery:
+Na każde nowe działanie tworzymy pusty obiekt LetterCreator, aktualizując go na podstawie danych wejściowych. Następnie generujemy wiadomość za pomocą usługi MessageCreator i zapisujemy odpowiedź jako Letter. Dodajemy także odpowiednie zmiany do tras.
+
+Widok edycji jest stylizowany za pomocą Tailwind CSS i wyświetla zawartość @letter&.body.presence.
+
+Tworzymy usługę odpowiedzialną za połączenie z API i generowanie wiadomości.
+
+Aby przyspieszyć aplikację, użyjemy Turbo Streams. ruby-openai obsługuje streaming przez wysłanie parametru stream i przekazanie Proc do obsługi fragmentów odpowiedzi.
+
+Transmisję fragmentów do widoku obsługujemy metodą modelu Letter. Dodajemy powiązany letter_creator jako kanał dla naszego streamu i używamy dom_id jako celu. Modyfikujemy przypisanie w metodie update kontrolera LetterCreatorsController, aby przekazać instancje letter_creator i letter do usługi MessageCreator.
+
+Podsumowując, stworzyliśmy aplikację generującą spersonalizowane zaproszenia, przyspieszoną za pomocą Turbo Streams, która może rozszerzać swoją funkcjonalność. Od inżynierii promptów po obsługę błędów i parsowanie odpowiedzi, możliwości są ogromne. Kody dostępne w repo.
+
+Link: https://rubyweekly.com/link/156330/web
+Streszczenie: Artykuł opisuje proces aktualizacji dużej aplikacji Rails z wersji 6.1 do 7.0.8. Autor, pracując dla klienta, po raz pierwszy zajął się takim zadaniem i postanowił podzielić się swoimi doświadczeniami wraz z krokami, które wykonał.
+
+Na wstępie autor opisuje, że nie będzie omawiał zmian w asset pipeline, ponieważ aplikacja była już na najnowszej wersji webpacker. Pierwszym krokiem do przygotowania do aktualizacji Rails 7 było przejrzenie wewnętrznych zależności działających na Rails 6. Celem było upewnienie się, że wszystkie wewnętrzne frameworki, z których korzysta monolit, również są zaktualizowane.
+
+Do tego celu użył gemu Appraisal, aby zapewnić kompatybilność zależności z Rails 6.1 i 7.0.8. Po aktualizacji wewnętrznych zależności, przyszedł czas na audyt zewnętrznych zależności. Autor zmienił wersję Rails w pliku Gemfile i uruchomił testy, aby zobaczyć, które zależności nie są kompatybilne z Rails 7. Aktualizację ułatwiło korzystanie z dependabot, dzięki czemu większość zależności była na bieżąco aktualizowana.
+
+Następnie autor skupił się na deprecjach generowanych w Rails 6. Aby wychwycić wszystkie ostrzeżenia, dodał subskrypcję na Rails ActiveSupport::Notifications - rails.deprecation hook. Dzięki temu zidentyfikował miejsca do poprawy przed aktualizacją do Rails 7.
+
+Autor również podzielił się listą ostrzeżeń i sposobami ich naprawy, takich jak pluckowanie identyfikatorów zamiast bezpośredniego przekazywania obiektów Active Record do quote/type_cast czy zmiana nazw plików. Następnie przystąpił do faktycznej aktualizacji wersji Rails w Gemfile i uruchomienia bundle install. Skorzystał także z komendy rails app:update, aby nadpisać pliki konfiguracyjne.
+
+Kolejnym ważnym punktem była modyfikacja konfiguracji cache, aby była kompatybilna wstecz z Rails 6.1. Autor przestrzegał również przed zmianami dotyczącymi generatora kluczy z SHA1 na SHA256 i pokazał, jak przygotować aplikację do odczytu starszych zaszyfrowanych wiadomości.
+
+Pod koniec artykułu mowa jest o testowaniu aplikacji w środowisku staging oraz QA, a także w środowisku deweloperskim, aby wychwycić wszelkie problemy przed wdrożeniem. Autor zakończył artykuł poradami, jak monitorować aplikację po wdrożeniu, usunąć niepotrzebny kod wstecznie kompatybilny oraz jak korzystać z nowych funkcji Rails 7.
+
+Dzięki temu szczegółowemu poradnikowi, inni deweloperzy mogą lepiej przygotować się do aktualizacji swoich aplikacji Rails.
+
+Link: https://rubyweekly.com/link/156331/web
+Streszczenie: **Streszczenie:**
+
+Artykuł opisuje krok po kroku, jak zaimplementować tryb ciemny w aplikacji Ruby on Rails przy wykorzystaniu Tailwind CSS oraz Stimulus JS. Preferencje użytkownika dotyczące trybu ciemnego są określane na podstawie selektora media `prefers-color-scheme: dark` oraz ustawień zapisanych w `localStorage`. Ta metoda pozwala na automatyczne dostosowanie wyglądu aplikacji do systemowych preferencji użytkownika, jak również na manualne przełączanie trybu.
+
+Aby zrealizować tryb ciemny, dodaje się klasę CSS `dark` do elementu HTML, a następnie konfiguruje Tailwind, aby reagował na ten selektor. Kontroler Stimulus jest odpowiedzialny za przełączanie trybu z jasnego na ciemny oraz za odczytywanie zapisanych ustawień z `localStorage`.
+
+Procedura obejmuje:
+1. Dodanie kontrolera Stimulus z akcją przełączania i odczytu ustawień.
+2. Zarejestrowanie kontrolera na stronie oraz umieszczenie elementu interfejsu do przełączania trybu, np. ikony żarówki.
+3. Konfigurację Tailwind CSS do obsługi trybu ciemnego za pomocą klasy `dark` (lub selektora strategii w wersjach starszych niż 3.4.1).
+
+Dalsze kroki obejmują dodanie klas `dark:*` oraz `dark:hover:*` do elementów strony, aby odpowiednio stylować je w trybie ciemnym. Dodatkowo, aby natychmiast załadować właściwy styl po otwarciu strony, w nagłówku strony umieszcza się krótki skrypt JavaScript, który obsługuje ustawienia zapisane wcześniej lub preferencje przeglądarki.
+
+Artykuł kończy się stwierdzeniem, że ten sposób w pełni wystarczy do zaimplementowania funkcjonalnego trybu ciemnego w aplikacji Rails.
+
+**Opublikowano 11 czerwca 2024**
+
+Link: https://rubyweekly.com/link/156332/web
+Streszczenie: Oczywiście, aby móc streścić artykuł, będę potrzebować jego treści. Proszę, wklej treść artykułu, który chciałbyś, aby został przeze mnie podsumowany.
+
+Link: https://rubyweekly.com/link/156333/web
+Streszczenie: W artykule omówiono mechanizmy healthcheck w Kamal, w tym sprawdzanie stanu kontenerów Docker oraz nową funkcjonalność wprowadzoną w Kamal 1.6, zwaną "web barrier".
+
+Każdy działający kontener Docker może mieć skonfigurowany healthcheck. Standardowy kontener aplikacji Rails 7.1, zarządzany przez Kamal, działa na porcie 3000 i ma punkt końcowy /up do sprawdzania stanu. Ustawienia te można zmienić w konfiguracji healthcheck.
+
+Kamal tworzy specjalny plik na hoście (cord file) i montuje go do kontenera w lokalizacji /var/run/kamal-cord. Sprawdzanie stanu aplikacji jest rozszerzone o sprawdzenie tego pliku, dzięki czemu Kamal może oznaczyć kontener jako "unhealthy" przez usunięcie tego pliku. Dzieje się tak podczas wdrożeń, co pozwala na dokończenie już rozpoczętych żądań do starego kontenera zanim zmiana zostanie zauważona przez Traefik (system równoważenia obciążenia).
+
+Lokalizację pliku cord można zmienić lub całkowicie wyłączyć to sprawdzenie, co jednak prowadzi do utraty wdrożeń bez przestojów.
+
+Interwał sprawdzania stanu kontenera (domyślnie 30 sekund) można skonfigurować za pomocą ustawienia interval. Przykładowo, ustawienie interwału na 20 sekund jest realizowane poprzez przepisanie tego czasu (w nanosekundach) w pliku konfiguracyjnym Docker.
+
+Kamal pozwala również na ustawienie maksymalnej liczby prób uzyskania zdrowego stanu kontenera przed porzuceniem próby wdrożenia nowej wersji. Domyślnie jest to 7 prób, ale można to dostosować za pomocą max_attempts.
+
+Dla innych ról wymagających specyficznych healthcheck można zagnieździć powyższe ustawienia w konfiguracji danej roli.
+
+Wersja Kamal 1.6 wprowadziła zmianę polegającą na anulowaniu pierwotnego mechanizmu sprawdzania stanu o nazwie healthcheck-*, który uruchamiał nowy kontener na porcie 3999. Teraz wprowadzono "web barrier", gdzie role niewebowe czekają, aż przynajmniej jeden kontener webowy przejdzie test healthcheck Docker przed zamknięciem starych kontenerów.
+
+Data publikacji artykułu: 12 czerwca 2024 r.
+
+Link: https://rubyweekly.com/link/156334/web
+Streszczenie: Artykuł opisuje funkcję Rails o nazwie `field_with_errors`, która jest domyślnie aktywowana w aplikacjach Ruby on Rails. Funkcja ta, pochodząca z `ActiveModelInstanceTag`, otacza pola formularza z błędami walidacji div-em o klasie `field_with_errors`, umożliwiając ich odpowiednie stylizowanie za pomocą CSS. Pomimo tego, dodatkowy div często zakłóca układ ostrożnie zaprojektowanego HTML-a, co może prowadzić do problemów z wyglądem strony.
+
+Autor artykułu sugeruje wyłączenie tej funkcji, ponieważ preferuje samodzielne tworzenie komponentów do podkreślania błędów walidacji formularza, co daje większą kontrolę nad stylizowaniem pól formularza i etykiet. Wyłączenie tej funkcji w Railsach jest stosunkowo proste i można to zrobić, dodając odpowiednią konfigurację w pliku inicjalizacyjnym.
+
+Wprowadzenie nowej konfiguracji polega na ustawieniu proca, który zwraca oryginalny tag HTML bez modyfikacji, co pozwala uniknąć dodawania div-ów `field_with_errors`. W rezultacie wszystkie nieprawidłowe pola formularza są zwracane w oryginalnej postaci, co eliminuje problem zakłócania układu strony.
+
+Pod artykułem znajduje się sekcja z sugestiami i możliwością kontaktu w celu poprawy treści. Autor zachęca również do zostania afiliantem oraz informuje o możliwości jednorazowego zakupu dostępu do biblioteki zasobów stworzonych dla Ruby on Rails, zaprojektowanych z użyciem Tailwind CSS i wzbogaconych o Hotwire.
+
+Ponadto artykuł promuje najnowszy artykuł na temat dodania funkcji "Zapisz i dodaj kolejny" w aplikacjach Rails oraz możliwość subskrybowania najnowszych aktualizacji i artykułów.
+
+Link: https://rubyweekly.com/link/156335/web
+Streszczenie: Joël omawia swój system notatek, który wykorzystuje do rejestrowania przemyśleń na temat programowania. Stephanie wspomina o swoim wystąpieniu na RailsConf, gdzie pewność siebie wynikała z głębokiego przekonania o wartości materiału. Rozmowa przechodzi do wartości modeli mentalnych w budowaniu lepszego zrozumienia tematów, co może zwiększyć pewność siebie podczas prezentacji i dyskusji.
+
+Następnie program przeskakuje do praktycznego zastosowania enumeratorów w Ruby i omawia różne modele mentalne pomagające lepiej rozumieć ich funkcjonowanie. Joël przedstawia kilka metafor, takich jak enumeratory jako kursory, leniwe kolekcje i generatory sekwencji, co pomaga w zrozumieniu ich zastosowań.
+
+Joël wyjaśnia swój system notatek, który składa się z małych tez z akapitami tekstu i diagramami, wspierających jego przekonania na temat programowania. System ten jest wysoce rozgałęziony i połączony linkami do innych notatek, co pozwala mu zobaczyć wizualne mapy myśli i tematy, które już omówił lub na które jeszcze nie pisał.
+
+Stephanie odnosi się do swojego doświadczenia z RailsConf, podkreślając, że jej pewność siebie w wystąpieniu pochodziła z głębokiego zrozumienia i wiary w materiał, nawet jeśli nie przećwiczyła go intensywnie. Rozmowa wskazuje na to, że rzeczywiste zrozumienie materiału daje lepsze podstawy do reagowania na pytania i nieprzewidziane sytuacje.
+
+W dalszej części Joël omawia różne modele mentalne dla zrozumienia enumeratorów w Ruby, w tym:
+
+1. **Enumerator jako kursor** - widząc enumerator jako kursor w kolekcji, który można przekazywać i przesuwać.
+2. **Leniwe kolekcje** - gdzie wartości są obliczane tylko wtedy, gdy są wymagane, co może zwiększyć wydajność.
+3. **Strumienie** - gdzie przetwarzanie dużych zbiorów danych odbywa się w małych partiach, aby oszczędzać pamięć.
+4. **Generator sekwencji** - jak robot, który generuje wartości na żądanie, opóźniając obliczenia do momentu faktycznego zapotrzebowania.
+5. **Przynieś własną iterację** (BYOT) - używanie enumeratorów do zapewnienia różnych sposobów iteracji przez struktury danych, np. różne metody przejścia przez drzewo binarne.
+
+Stephanie dodaje swoje przemyślenia na temat tego, jak metoda rewind w enumeratorze przykuła jej uwagę, wywołując skojarzenie z przewijaniem taśm VHS. Metafora ta pomogła jej lepiej zrozumieć działanie enumeratorów.
+
+Wspomniane są również korzyści płynące z używania enumeratorów, takie jak zwiększenie wydajności poprzez opóźnianie obliczeń oraz elastyczność w wyborze metod iteracji dla kolekcji. Stephanie docenia nowe możliwości, jakie daje znajomość enumeratorów i omawia, jak mogą one być użyteczne w różnych scenariuszach programistycznych.
+
+Podsumowując, artykuł podkreśla, jak różne modele mentalne mogą pomóc w głębszym zrozumieniu narzędzi programistycznych, takich jak enumeratory w Ruby, oraz jak takie zrozumienie może przydać się w praktyce.
+
+Link: https://rubyweekly.com/link/156336/web
+Streszczenie: Artykuł omawia gem `RBS::Inline`, który umożliwia wbudowane deklaracje typów RBS w kodzie Ruby jako komentarze. Dzięki temu można deklarować typy, pisać implementacje i sprawdzać ich zgodność bez opuszczania edytora. Należy zaznaczyć, że składnia jest eksperymentalna i autorzy proszą o feedback w celu ulepszania jej.
+
+Gem jest prototypem i planowane jest połączenie tej funkcji z `rbs-gem`, a sam `rbs-inline` zostanie zdeprecjonowany. Instalacja gemy odbywa się standardowo poprzez dodanie do Gemfile lub instalację bezpośrednią z terminala. Po instalacji, `rbs-inline` działa jako transpiler, zamieniając adnotowany kod Ruby do plików RBS, które można wykorzystać z narzędziami obsługującymi definicje typów RBS, np. Steep.
+
+Dla automatycznego generowania plików RBS podczas edycji kodu Ruby, zalecane jest użycie narzędzia `fswatch` lub podobnego. Szczegółowa dokumentacja jest dostępna w wiki projektu.
+
+Projekt jest open-source na licencji MIT i zachęca do zgłaszania błędów oraz pull requestów na GitHubie. Wszystkie interakcje w projekcie muszą być zgodne z kodeksem postępowania, któremu podlegają wszyscy uczestnicy projektu.
+
+Link: https://rubyweekly.com/link/156336/web
+Streszczenie: RBS::Inline to eksperymentalna gemka w Ruby, umożliwiająca umieszczanie deklaracji typów RBS bezpośrednio w kodzie Ruby jako komentarze. Umożliwia to deklarowanie typów, implementację kodu oraz ich weryfikację bez opuszczania edytora kodu. Obecna wersja gemu jest prototypem, a jego funkcjonalności mają być w przyszłości przeniesione do gemu rbs-gem, co spowoduje deprecjację rbs-inline.
+
+Aby rozpocząć korzystanie z gemu, należy go zainstalować i dodać do Gemfile aplikacji, pamiętając przy tym o użyciu opcji `--require=false`, by uniknąć niepotrzebnych zależności od gemu. Możliwe jest także ręczne dodanie gemu do Gemfile lub zainstalowanie go poprzez komendę.
+
+Gemu działa jako transpilator z adnotowanego kodu Ruby do plików RBS, które można następnie używać z narzędziami takimi jak Steep, wspierającymi definicje typów RBS. Można również używać narzędzi do automatycznego generowania plików RBS podczas edycji kodu Ruby.
+
+Repozytorium projektu zawiera instrukcje dotyczące instalacji zależności, uruchamiania testów oraz interaktywnej konsoli do eksperymentowania z kodem. Publikacja nowej wersji gemu wymaga aktualizacji numeru wersji oraz wykonania odpowiednich komend do tagowania w Git i publikacji na rubygems.org.
+
+Projekt jest otwarty na zgłoszenia błędów i pull requesty na GitHubie pod adresem https://github.com/soutaro/rbs-inline. Jest dostępny jako open source na zasadach licencji MIT i wszyscy uczestnicy są zobowiązani przestrzegać kodeksu postępowania.
+
+Streszczenie: RBS::Inline to eksperymentalna gemka umożliwiająca dodawanie deklaracji typów RBS w kodzie Ruby jako komentarze, co ułatwia deklarowanie i weryfikację typów bez opuszczania edytora kodu. Obecnie jest w fazie prototypu, później planowane jest jej zintegrowanie z rbs-gem. Projekt jest dostępny na zasadach licencji MIT i wspierany przez społeczność na GitHubie.
+
+Link: https://rubyweekly.com/link/156337/web
+Streszczenie: Artykuł dotyczy narzędzia RSpec::Wait, które ułatwia testowanie asynchronicznych lub wolnych interakcji w RSpec. Problemy z czasem i warunki wyścigu mogą sprawić, że zestaw testów będzie mniej niezawodny, co pogorszy tempo i jakość rozwoju. RSpec::Wait umożliwia oczekiwanie, aż asercja przejdzie, stosując znaną składnię RSpec. Jeśli asercja nie przejdzie od razu, RSpec::Wait będzie próbował, aż zakończy się sukcesem lub do momentu upłynięcia czasu. Metoda `wait_for` wymaga bloku, aby mogła wielokrotnie oceniać zawartość bloku w czasie oczekiwania. To narzędzie jest szczególnie przydatne podczas testowania interfejsów użytkownika z elementami o skomplikowanym czasie, takimi jak interakcje JavaScript lub zdalne żądania.
+
+RSpec::Wait jest testowany pod kątem zgodności z aktualnymi i nadchodzącymi wersjami Ruby oraz RSpec. Jeśli użytkownik zauważy brak wsparcia dla konkretnej wersji, może otworzyć zgłoszenie lub pull request, aby dodać wsparcie. RSpec::Wait integruje się z wewnętrznymi mechanizmami RSpec, dzięki czemu może korzystać z dowolnych matcherów stosowanych w metodzie `expect`. 
+
+Aby zacząć korzystać z RSpec::Wait, należy dodać go jako zależność do pliku Gemfile i zainstalować za pomocą narzędzia `bundle install`. Jeśli kod wywołuje `Bundler.require` na początku, metoda `wait_for` będzie już dostępna w zestawie testów RSpec. W przypadku napotkania błędu, trzeba jawnie załadować RSpec::Wait podczas uruchamiania środowiska testowego. 
+
+RSpec::Wait oferuje trzy wartości konfiguracyjne, które mogą być ustawiane na wiele sposobów, w tym na poziomie pojedynczego przykładu lub kontekstu za pomocą metadanych `wait`. Metoda `wait` akceptuje także hash kluczy i wartości konfiguracji, co pozwala ustawić konfigurację dla pojedynczej asercji. Aby poprawić czytelność, `wait` przyjmuje czas oczekiwania jako argument pozycyjny.
+
+Może wystąpić konflikt z RuboCop, gdy przykład RSpec zawiera pojedynczą asercję `wait_for`, ale można skonfigurować RuboCop do rozpoznawania `wait_for` jako oczekiwania. RSpec::Wait można również zintegrować z definicjami kroków Cucumber.
+
+Autorem narzędzia jest Steve Richert, który stworzył je w 2014 roku z pomocą swojego pracodawcy, Collective Idea. RSpec::Wait jest oprogramowaniem open source i zachęca się do wkładu od społeczności. Za wsparcie projektu można także sponsorować autora.
+
+Podsumowując, artykuł szczegółowo opisuje narzędzie RSpec::Wait, jego funkcje, konfigurację, integrację oraz informacje na temat wsparcia i wkładu ze strony społeczności.
+
+Link: https://rubyweekly.com/link/156338/web
+Streszczenie: Streszczenie:
+
+Firma pomaga liderom technologicznym w maksymalizowaniu korzyści z inwestycji w oprogramowanie, od strategii po realizację. Konsultanci, którzy są zarówno doświadczonymi programistami, jak i menedżerami produktów, oferują świeże perspektywy i pomoc w rozwiązywaniu trudnych, nietypowych problemów. Główny cel to zrozumienie potrzeb klienta i szybkie dostarczanie wartości.
+
+Menedżerowie produktów identyfikują problemy utrudniające współpracę między funkcjami, natomiast programiści przyspieszają realizację projektów poprawiających wydajność. Firma pomaga zespołom skoncentrować się na kluczowych zadaniach, aby osiągać znaczące wyniki.
+
+Podejście firmy polega na dostosowaniu się do obecnej sytuacji zespołu i dążeniu do powtarzalnych sukcesów, bez proponowania zwiększenia liczby programistów jako rozwiązania każdego problemu. Zamiast tego, pomagają odkrywać przyczyny problemów i je rozwiązywać, umożliwiając zespołom wykonywanie najlepszej możliwej pracy.
+
+Firma zachęca do kontaktu, oferując bezpośrednie wsparcie bez konieczności angażowania dodatkowego zarządzania.
+
+Kontakt: 
+614.349.4279
+hello@testdouble.com
+
+Privacy Policy
+Firma założona w Columbus, OH.
+
+Link: https://rubyweekly.com/link/156339/web
+Streszczenie: Artykuł przedstawia narzędzie „gem_update”, które automatyzuje proces aktualizacji Gemfile i wyszukiwania linków do changelogów zaktualizowanych gemów. Kiedy programista uruchamia „bundle update”, zmiany mogą wprowadzić błędy, więc konieczne jest sprawdzenie changelogów przed wdrożeniem kodu na produkcję. Ręczne wyszukiwanie informacji o każdej zaktualizowanej bibliotece jest czasochłonne i podatne na pomyłki. „Gem_update” automatycznie aktualizuje Gemfile oraz zbiera linki do changelogów, które można w łatwy sposób wkleić do wiadomości commit. Dodatkowo, narzędzie pozwala od razu utworzyć commit, używając wygenerowanej wiadomości jako szablonu, który można edytować przed zatwierdzeniem. Jeśli użytkownik chce, może dostosować szablon wiadomości, tworząc plik `.gem_updater_template.erb` w swoim katalogu domowym. Projekt opiera się na metadanych gemy, aby znaleźć URL changelogu, a jeśli nie jest dostępny, warto sprawdzić, czy autorzy gemy zadeklarowali odpowiedni URI w gemspec. Projekt zachęca do zgłaszania uwag i otwierania pull requestów w celu dalszego ulepszania narzędzia.
+
+Link: https://rubyweekly.com/link/156340/web
+Streszczenie: Timecop to biblioteka Ruby, która umożliwia manipulację czasem w testach aplikacji, pozwalając na łatwe testowanie kodu zależnego od czasu. Gem dostarcza zintegrowany sposób na mockowanie metod takich jak `Time.now`, `Date.today`, `DateTime.now` oraz `Process.clock_gettime`. Dzięki Timecop można:
+
+1. Zamrażać czas (`freeze`), co sprawia, że wartość `Time.now` pozostaje niezmienna przez cały czas trwania danego testu.
+2. Podróżować w czasie (`travel`), co symuluje upływ czasu poprzez obliczanie przesunięcia względem ustalonego punktu czasowego.
+3. Przyspieszać czas, co jest szczególnie przydatne dla testowania cyklów miesięcznych raportów i faktur.
+
+Cechy te są niezwykle przydatne, gdy cała aplikacja jest wrażliwa na czas, umożliwiając budowę testowych danych w określonym momencie czasu i przeprowadzanie testów w różnych przedziałach czasowych.
+
+Dodatkowo Timecop oferuje tryb bezpieczny, który wymaga użycia syntaksy blokowej, by zapewnić automatyczne przywracanie pierwotnego czasu po zakończeniu testu, co zapobiega problemom spowodowanym pozostawieniem zmienionego czasu. W przeciwnym przypadku rzucany jest wyjątek `Timecop::SafeModeException`.
+
+Aby korzystać z Timecop, należy dodać gem do projektu za pomocą `bundle add timecop`, a konfigurację można umieścić, na przykład, w pliku `config/environments/test.rb`.
+
+Ostrzegane jest jedynie zachowanie ostrożności przy mieszaniu metod dat w Ruby z metodami w Rails, ponieważ mogą one działać niezgodnie i powodować błędy.
+
+Biblioteka Timecop jest utrzymywana przez Travisa Jeffery'ego i została stworzona przez Johna Trupiano.
+
+Link: https://rubyweekly.com/link/156341/web
+Streszczenie: Administrate to biblioteka dla aplikacji Rails, która automatycznie generuje panele administracyjne. Dzięki Administrate użytkownicy nietechniczni mogą tworzyć, edytować, wyszukiwać i usuwać rekordy dla dowolnego modelu w aplikacji za pomocą czystych i intuicyjnych interfejsów. Celem Administrate jest zapewnienie lepszych doświadczeń użytkownikom niż inne narzędzia, takie jak Rails Admin czy ActiveAdmin, i łatwiejsza personalizacja dla programistów.
+
+Administrate kieruje się kilkoma zasadami, aby osiągnąć te cele. Aby dostosować wygląd, zachowanie i zawartość panelu, dostępne są przewodniki w katalogu dokumentacji repozytorium git. Biblioteka jest darmowa i może być rozpowszechniana na warunkach określonych w pliku LICENSE.
+
+Administrate została pierwotnie stworzona przez Grace Youngblood, a obecnie jest utrzymywana przez Nicka Charltona, z licznymi ulepszeniami pochodzącymi od społeczności open source. Projekt jest własnością i jest zarządzany przez thoughtbot, inc. Ta firma jest znana ze swojej pasji do oprogramowania open source oraz oferuje swoje usługi projektowania, programowania i rozwijania produktów dla klientów komercyjnych.
+
+Link: https://rubyweekly.com/link/156342/web
+Streszczenie: Przepraszam, ale nie mogę streścić artykułu, ponieważ nie podałeś żadnej treści. Proszę wklej tekst artykułu, a ja chętnie przygotuję jego streszczenie po polsku, korzystając z określonego limitu znaków.
+
+Link: https://rubyweekly.com/link/156343/web
+Streszczenie: Administrate to biblioteka dla aplikacji Rails, która automatycznie generuje panele administracyjne. Celem Administrate jest dostarczenie intuicyjnych interfejsów dla użytkowników nietechnicznych, umożliwiając im tworzenie, edytowanie, wyszukiwanie i usuwanie rekordów dla dowolnego modelu w aplikacji. W przeciwieństwie do Rails Admin i ActiveAdmin, Administrate stawia na lepsze doświadczenie użytkownika dla administratorów stron oraz łatwiejszą personalizację dla programistów.
+
+Podstawowe zasady, którymi kieruje się Administrate, mają na celu ułatwienie personalizacji wyglądu, działania i zawartości paneli. Dokumentacja, która pomaga w tych procesach, jest dostępna zarówno w repozytorium git, jak i w formie przewodników dla obecnej i nadchodzących wersji.
+
+Administrate było pierwotnie napisane przez Grace Youngblood, a obecnie jest utrzymywane przez Nicka Charltona, z licznymi ulepszeniami i poprawkami od społeczności open source. Projekt jest darmowy i może być redystrybuowany na warunkach określonych w pliku LICENSE. Utrzymaniem i finansowaniem repozytorium zajmuje się thoughtbot, inc., firma znana z miłości do oprogramowania open source i dostępna do wynajęcia na różne projekty.
+
+Link: https://rubyweekly.com/link/156344/web
+Streszczenie: "[Żaden tytuł artykułu nie jest podany]
+
+Niniejszy artykuł opisuje gem `duckdb`, który jest klientem Ruby dla silnika bazy danych DuckDB. Aby korzystać z tego gema, użytkownik musi mieć zainstalowany DuckDB. Instrukcja zaleca przejście na stronę DuckDB, pobranie najnowszej wersji pakietu C++ i przeniesienie plików do odpowiednich lokalizacji. Następnie trzeba uruchomić `ldconfig` jako root, aby utworzyć niezbędne połączenie.
+
+Instalację DuckDB zaleca się przeprowadzić za pomocą `brew install`. Konieczne jest również użycie Ruby + Devkit. Po spełnieniu wyżej wymienionych wymagań wstępnych, gem powinien działać poprawnie. W przeciwnym razie konieczne może być ręczne określenie lokalizacji nagłówków C i plików biblioteki.
+
+Artykuł omawia również różne funkcje dostępne w DuckDB gem, takie jak użycie zmiennych wiązanych, zapytań asynchronicznych, klasy `Appender`, która dostarcza interfejs Ruby dla DuckDB Appender, oraz klasy `Config`, która dostarcza interfejs Ruby dla konfiguracji DuckDB. Przykłady obejmują użycie DuckDB::Blob czy metodę `my_string.force_encoding(Encoding::BINARY)`.
+
+Artykuł kładzie nacisk na zalecane praktyki instalacyjne i konfiguracyjne, podaje benchmarki oraz szczegółowo opisuje, jak korzystać z różnych funkcji tego gema. Ważne jest również, aby użytkownik podążał za dokumentacją dla uzyskania pełnej listy dostępnych kwalifikatorów."
+
+Link: https://rubyweekly.com/link/156345/web
+Streszczenie: Artykuł przedstawia wsparcie dla języka Ruby w edytorze tekstu Neovim. Aby dodać wsparcie Ruby do aplikacji, należy wpisać odpowiednią linię do pliku Gemfile, a następnie uruchomić odpowiednie polecenia instalacyjne. Neovim oferuje opcję --listen, która umożliwia połączenie przez RPC API po wskazanym adresie, na przykład przez socket Unix. Po uruchomieniu Neovim z odpowiednią opcją, użytkownik może połączyć się z Neovim::Client.
+
+Artykuł informuje również o możliwości definiowania własnych modułów zdalnych w Ruby, które zastępują przestarzałą architekturę „remote plugin”. Przykłady użycia modułów zdalnych są dostępne w dokumentacji. Ponadto, gem Neovim działa jako warstwa kompatybilności dla wtyczek Ruby napisanych dla tradycyjnego Vim, zachowując funkcjonalności poleceń takich jak :ruby, :rubyfile i :rubydo.
+
+Podsumowując, artykuł pokazuje, jak zintegrować Neovim z Ruby, umożliwia definiowanie własnych handlerów oraz zapewnia kompatybilność z istniejącymi wtyczkami Ruby dla Vim.
+
+Link: https://rubyweekly.com/link/156346/web
+Streszczenie: Neovim jest nowoczesnym narzędziem, które zyskuje uznanie wśród użytkowników Vim dzięki licznym ulepszeniom i naprawieniu problemów, które były obecne w oryginalnym Vimie. Geoff Greer zauważa, że Neovim rozwiązuje wszystkie jego problemy z Vimem, co podkreśla ogromne usprawnienia i przewagę Neovim nad tradycyjnym edytorem. DHH, znany twórca Ruby on Rails, również wyraża pozytywne opinie, podkreślając atrakcyjny wygląd Neovim w trybie pełnoekranowym. Nawet Bram Moolenaar, twórca Vima, zauważa estetykę strony internetowej Neovim jako coś, co "zrobili dobrze". Wszystkie te opinie pokazują, że Neovim jest nowoczesnym, dobrze zaprojektowanym i funkcjonalnym narzędziem, które poprawia doświadczenie użytkowników Vim.
+
+Link: https://rubyweekly.com/link/156347/web
+Streszczenie: Artykuł omawia gem Ruby o nazwie `httplog`, który umożliwia logowanie wychodzących zapytań HTTP w aplikacjach Ruby. Narzędzie to jest przydatne przede wszystkim w celu debugowania odpowiedzi API i zrozumienia działania komunikacji HTTP w trakcie rozwoju aplikacji. 
+
+Gem `httplog` wymaga Ruby w wersji co najmniej 2.6 i wspiera kilka najpopularniejszych bibliotek HTTP, takich jak Net::HTTP, HTTPClient, Patron, i wiele innych. Może być również używany z bibliotekami korzystającymi z wymienionych adapterów, choć nie zostało to eksplicytnie przetestowane.
+
+Artykuł przestrzega przed używaniem `httplog` w środowisku produkcyjnym ze względu na jego sposób działania polegający na monkey-patchingu implementacji HTTP, co może być ryzykowne. Domyślnie gem loguje wszystkie wychodzące zapytania HTTP oraz ich odpowiedzi do standardowego wyjścia ($stdout) na poziomie DEBUG. Istnieje możliwość dostosowania ustawień domyślnych, takich jak kolorowanie logów, formatowanie w JSON, filtrowanie wrażliwych parametrów, i inne.
+
+W przypadku aplikacji Rails zaleca się skonfigurowanie `httplog` osobno dla każdego środowiska, unikając globalnego inicjalizatora, który mógłby powodować problemy w środowisku produkcyjnym. Dla starszych aplikacji Rails 3 może być potrzebne specjalne ustawienie konfiguracji logera.
+
+Jeśli logi są zbyt hałaśliwe, można włączyć opcję `compact_log`, co spowoduje logowanie każdego zapytania w jednej linii z podstawowymi informacjami takimi jak metoda, URI, status odpowiedzi i czas. Istnieje również opcja logowania w formacie JSON za pomocą ustawienia `json_log`.
+
+Dodatkowo, możliwe jest filtrowanie wartości wrażliwych parametrów, takich jak hasła, jednakże filtrowanie nie obejmuje odpowiedzi i działa jedynie na dobrze sformułowane parametry wysyłane w zapytaniach.
+
+Artykuł kończy się omówieniem znanych problemów i ograniczeń z niektórymi bibliotekami, takimi jak OpenURI, HTTPClient, Ethon i Patron. W przypadku napotkania problemów, autorzy zachęcają do zgłaszania ich na GitHubie lub przesyłania pull requestów.
+
+Testowanie `httplog` wymaga uruchomienia lokalnego serwera rack i przeprowadzenia testów przy użyciu RSpec. Instrukcje dotyczące instalacji oraz testowania są również podane w artykule.
+
+Całość artykułu zachęca do wykorzystania `httplog` w środowisku deweloperskim dla lepszego zrozumienia wywołań HTTP w aplikacjach Ruby.
+
+Link: https://rubyweekly.com/link/156348/web
+Streszczenie: Artykuł opisuje bibliotekę Ruby o nazwie ruby-macho, która umożliwia analizowanie i modyfikowanie plików Mach-O. Format plików Mach-O jest używany przez macOS i iOS do plików obiektowych, wykonywalnych oraz dynamicznych bibliotek. Biblioteka ruby-macho jest dostępna do instalacji poprzez RubyGems, a pełna dokumentacja znajduje się na RubyDoc.
+
+Użytkownicy tej biblioteki mogą wykorzystać narzędzie overcommit do zarządzania hookami git i zapewnienia wysokiej jakości kodu. ruby-macho jest licencjonowana na zasadach licencji MIT, a szczegóły dotyczące licencji można znaleźć w odpowiednim pliku w repozytorium.
+
+Artykuł dostarcza podstawowych informacji o możliwościach oraz instalacji biblioteki ruby-macho, wskazując na jej przydatność w kontekście systemów operacyjnych macOS i iOS.
+
+Link: https://rubyweekly.com/link/156349/web
+Streszczenie: Streszczenie:
+
+Artykuł wprowadza bibliotekę Torch.rb, która umożliwia korzystanie z deep learningu w Ruby dzięki integracji z LibTorch, będącą biblioteką C++ dla PyTorch. Aby rozpocząć, należy zainstalować bibliotekę LibTorch za pomocą Homebrew, dodając odpowiednią linię do pliku Gemfile aplikacji Ruby. 
+
+Podobnie jak PyTorch, Torch.rb pozwala na tworzenie tensorów, wykonywanie operacji matematycznych oraz konwersję między tensorami a tablicami Numo. Dodatkowo, biblioteka wspiera autograd, co umożliwia śledzenie historii operacji i obliczanie gradientów dla optymalizacji sieci neuronowych.
+
+Procedura definiowania sieci neuronowej, obliczania strat, backpropagacji oraz aktualizacji wag jest zbliżona do tej znanej z PyTorch, z kilkoma zmianami, które czynią ją bardziej zrozumiałą dla programistów Ruby. Użytkownicy mogą również zapisywać i wczytywać modele, ale podczas importowania modeli z Pythona do Ruby konieczne jest konwertowanie parametrów na tensory z powodu obecnych błędów w LibTorch.
+
+Dla szybszego przetwarzania głębokiego uczenia się można korzystać z GPU. Na linuksie wymagane są CUDA i cuDNN, natomiast na sprzęcie Apple - Metal Performance Shaders. Artykuł wspomina także o możliwości korzystania z chmury, np. Paperspace, jeśli lokalny sprzęt nie obsługuje CUDA.
+
+Na końcu artykułu wymienione są różne sposoby, w jakie społeczność może przyczynić się do rozwoju projektu, w tym np. testowanie na GPU z AWS Deep Learning Base AMI oraz przeglądy kodu.
+
+Link: https://rubyweekly.com/link/156350/web
+Streszczenie: Streszczenie:
+
+Artykuł dotyczy implementacji prostego, ale potężnego narzędzia do pracy z ramkami danych (data frames) w języku programowania Ruby, zorientowanego na eksplorację danych i uczenie maszynowe oraz zasilanego przez bibliotekę Numo. Narzędzie to wykorzystuje Vega do wizualizacji danych.
+
+1. **Instalacja**: Aby dodać bibliotekę do projektu, należy umieścić odpowiednią linię w pliku Gemfile aplikacji.
+
+2. **Tworzenie ramek danych**: Można je tworzyć z różnych źródeł, takich jak:
+   - Tablice (arrays)
+   - Hashe (hashes)
+   - Active Record
+   - Pliki CSV
+   - Pliki Parquet (wymaga dodatkowej biblioteki `red-parquet`)
+
+3. **Podstawowe operacje**: Na ramkach danych można wykonywać operacje takie jak:
+   - Pobieranie liczby wierszy lub nazw kolumn
+   - Sprawdzenie istnienia kolumn
+   - Selekcja pojedynczych lub wielu kolumn
+   - Selekcja pierwszych lub ostatnich wierszy
+   - Iteracja przez wiersze i kolumny
+   - Filtrowanie danych na podstawie warunków
+
+4. **Funkcje matematyczne i statystyczne**: Obsługiwane są różne operacje matematyczne i statystyki, w tym:
+   - Zaokrąglanie, logarytmowanie, potęgowanie
+   - Funkcje trygonometryczne i hiperboliczne
+   - Statystyki podsumowujące, zliczanie wystąpień i tabela skrzyżowań
+   - Grupowanie i statystyki dla grup
+
+5. **Wizualizacja danych**: W celu wizualizacji danych można dodać Vegę do Gemfile, a następnie określić typ wykresu (liniowy, kołowy, słupkowy, itd.) i grupy danych. Możliwe jest również tworzenie wykresów skumulowanych.
+
+6. **Manipulacja danymi**: Narzędzie umożliwia dodawanie, aktualizowanie i usuwanie danych, w tym pojedynczych elementów, całych kolumn, oraz sortowanie wierszy. Obsługiwane są również operacje złączeń (join) wewnętrznych i lewych oraz kodowania one-hot.
+
+7. **Tworzenie ramek danych z różnych typów danych**: Obsługiwane są różne struktury danych, takie jak tablice hash, hashe tablic, tablice Numo, pliki CSV i Parquet. Można również określić typy kolumn przy tworzeniu ramki danych i zmieniać typy kolumn.
+
+8. **Deweloperzy**: Projekt jest otwarty na wkład społeczności, a wszyscy są zachęcani do pomocy w jego ulepszaniu.
+
+Artykuł przedstawia więc kompleksowe podejście do pracy z ramkami danych w Ruby z wieloma funkcjami przydatnymi zarówno do analizy danych, jak i do uczenia maszynowego.
+
+Link: https://rubyweekly.com/link/156351/web
+Streszczenie: Artykuł autorstwa Jasona L Perry'ego opisuje, jak zaimplementować reCAPTCHA w aplikacjach Ruby on Rails za pomocą gemu `recaptcha`. Obejmuje różne typy reCAPTCHA (v2, v3 oraz Invisible) oraz metody ich konfiguracji i walidacji.
+
+### Kluczowe informacje:
+1. **Instalacja i Konfiguracja**:
+   - Pobierz klucz API z konsoli administracyjnej reCAPTCHA.
+   - Klucze w kodzie można przechowywać jako zmienne środowiskowe lub za pomocą Rails secrets.
+
+2. **reCAPTCHA v2**:
+   - Użyj `recaptcha_tags`, aby osadzić JavaScript w widoku.
+   - Waliduj w kontrolerze za pomocą `verify_recaptcha` lub `verify_recaptcha!`.
+   - Rodzaje dostępnych kluczy: v2 Checkbox oraz v2 Invisible.
+   - Konfiguracje w JavaScript (api.js) i atrybuty HTML mogą być dostosowane.
+
+3. **reCAPTCHA v3**:
+   - Używa dynamicznych akcji i większej integracji ze stronami.
+   - Minimalizuje interakcje użytkownika poprzez ocenę ryzyka.
+   - Klucze konfigurowane analogicznie do v2.
+   - Dodanie skryptu za pomocą `executeRecaptchaFor{action}` i walidacja w kontrolerze.
+
+4. **Specyficzne potrzeby konfiguracyjne**:
+   - Można nadpisać klucze dla określonych sytuacji za pomocą opcji runtime.
+   - Można używać specyficznych metod konfiguracji dla Enterprise API oraz środowisk testowych.
+
+5. **Biblioteki i narzędzia**:
+   - Gem `dotenv` do zarządzania kluczami w środowisku deweloperskim.
+   - Obsługa i18n dla tłumaczeń.
+   - Niezbędne pliki i ustawienia można znaleźć na GitHubie w repozytorium gemu `recaptcha`.
+
+6. **hCaptcha jako alternatywa**:
+   - Implementacja hCaptcha możliwa poprzez ten sam gem.
+   - hCaptcha wykorzystuje odwrotny system oceniania ryzyka w porównaniu do reCAPTCHA.
+
+### Zastosowanie:
+Dodaj `recaptcha_tags` lub `invisible_recaptcha_tags` do formularzy, które chcesz chronić, a następnie zaimplementuj walidację odpowiedzi w kontrolerach. Dostosuj parametry JavaScript i atrybuty HTML według własnych potrzeb, biorąc pod uwagę typ klucza reCAPTCHA.
+
+### Wskazówki:
+- Klucze reCAPTCHA muszą być odpowiednie dla typu wybranych metod.
+- Rekomendowane jest dodanie obsługi błędów w modelach ActiveRecord.
+- W przypadku problemów z integracją w Rails 7, Turbo lub Stimulus, sprawdź odpowiednie strony w dokumentacji.
+
+Pełna dokumentacja oraz dodatkowe informacje znajdują się na GitHubie pod adresem: [https://github.com/ambethia/recaptcha](https://github.com/ambethia/recaptcha).
+
+Link: https://rubyweekly.com/link/156352/web
+Streszczenie: ### Streszczenie: 
+
+Artykuł opisuje, jak zaimplementować system kodów polecających i linków afiliacyjnych w aplikacjach Ruby on Rails z wykorzystaniem gemu "Refer". 
+
+### Główne kroki i elementy:
+
+1. **Instalacja gema**:
+   - Dodaj linię z "Refer" do pliku Gemfile swojej aplikacji.
+   - Wykonaj odpowiednie polecenia instalacyjne.
+
+2. **Konfiguracja kontrolerów i modeli**:
+    - Dodaj "Refer" do kontrolerów, aby przechowywać ciasteczka zawierające kody polecające.
+    - Dodaj "Refer" do modelu, aby śledzić polecenia i kody polecające.
+
+3. **Generowanie i śledzenie kodów polecających**:
+    - Twórz kody polecające za pomocą odpowiednich asocjacji w modelach.
+    - Możesz ten proces dostosować, korzystając z konfiguracji dla niestandardowych generatorów kodów (np. alfanumeryczne kody o długości 8 znaków są generowane domyślnie).
+
+4. **Przechowywanie kodów w ciasteczkach**:
+    - "Refer" automatycznie wykrywa kody z parametru URL (np. ?ref=code) i zapisuje je w ciasteczkach.
+    - Konfiguracja, gdzie ustawiać ciasteczka, np. tylko na stronach marketingowych.
+
+5. **Interakcje z użytkownikami**:
+    - Stwórz system do manualnego czy automatycznego dodawania poleceń.
+    - Używaj asocjacji do uzyskiwania informacji o poleceniach użytkownika.
+
+6. **Integracja z Devise**:
+    - Dostosuj kontrolery Devise, aby śledzić polecenia po udanej rejestracji użytkownika.
+    - Możesz to zrobić poprzez zdefiniowanie niestandardowego kontrolera w ścieżkach routingu i wpięcie się w akcję tworzenia użytkownika.
+
+7. **Systemy nagradzania**:
+    - Możliwość bezpośredniego nagradzania po stworzeniu polecenia, po wykonaniu określonego działania przez polecającego lub po ustalonym czasie.
+    - Zachowuj rekordy nagród, aby móc je kontrolować i ograniczać.
+
+8. **Wsparcie i licencjonowanie**:
+    - W przypadku problemów, zgłoś je przez GitHub.
+    - Gem dostępny jest jako open source na licencji MIT.
+
+Artykuł kończy się wskazówkami dotyczącymi zgłaszania problemów i informacją o dostępności gema jako open source zgodnie z warunkami licencji MIT.
+
+Link: https://rubyweekly.com/link/156353/web
+Streszczenie: Nie dostarczyłeś pełnego artykułu ani szczegółowych informacji, więc mogę jedynie spekulować na podstawie dostarczonego fragmentu. Oto streszczenie na podstawie dostępnych informacji:
+
+Artykuł podkreśla, że wszystkie opinie i uwagi użytkowników są starannie analizowane i traktowane z pełnym zaangażowaniem. Autorzy przykładają dużą wagę do informacji zwrotnej od czytelników, co pozwala im na doskonalenie swojego produktu lub usługi. Aby zapoznać się ze wszystkimi dostępnymi kwalifikatorami, użytkownicy są zachęcani do zapoznania się z dokumentacją.
+
+Proszę dostarczyć pełny tekst artykułu, abym mógł przygotować bardziej szczegółowe i dokładne streszczenie.
+
+Link: https://rubyweekly.com/link/156354/web
+Streszczenie: Octokit to narzędzie Ruby, które umożliwia interakcję z API GitHuba. Oferuje łatwe w użyciu metody, które odzwierciedlają konwencje języka Ruby, minimalizując potrzebę znajomości REST. Instalacja odbywa się poprzez Rubygems, a metody API dostępne są jako metody instancji klienta. Większość metod zwraca obiekty Resource, które pozwalają na wygodny dostęp do danych API.
+
+Octokit wspiera różne metody uwierzytelniania, w tym Basic Authentication, OAuth, oraz dwuskładnikowe uwierzytelnianie. Można także odczytywać dane uwierzytelniające z pliku netrc.
+
+Octokit automatycznie radzi sobie z paginacją wyników API i wspiera instancje GitHub Enterprise. Konfiguracja opcji klienta jest możliwa poprzez moduł Octokit, co jest przydatne przy tworzeniu wielu instancji klientów z tymi samymi ustawieniami.
+
+Obsługiwanie błędów w Octokit jest realizowane przez wywoływanie odpowiednich wyjątków, a różne klasy wyjątków dziedziczą po Octokit::Error. Octokit jest skonfigurowany do obsługiwania hiperłączy, co czyni go zgodnym z koncepcją hypermedia.
+
+Wersja 4.0 Octokit wprowadza pewne zmiany, takie jak ustawienie domyślnego typu mediów na v3 oraz usunięcie nadmiarowej metody Octokit::Client#create_download.
+
+Octokit używa Faraday pod maską, co pozwala na rozszerzanie funkcjonalności poprzez middleware. Można również zwiększyć wydajność i ograniczyć zużycie limitów API za pomocą Faraday Http Cache.
+
+Kontrybucje do rozwijania Octokit są mile widziane, a projekt wykorzystuje VCR do nagrywania i odtwarzania testów API. Wspierane są różne implementacje Ruby, a zgodność z Semantic Versioning 2.0.0 jest przestrzegana.
+
+Octokit oferuje dodatkowe narzędzie o nazwie Octopoller do obsługi powtarzających się żądań, co jest przydatne w przypadku długoterminowych zadań. Kod źródłowy Octokit objęty jest licencją MIT.
+
+Link: https://cooperpress.com/spam.html
+Streszczenie: Cooper Press Ltd to renomowany wydawca cotygodniowych newsletterów, który unika spamu i niezamówionych e-maili komercyjnych. Newslettery są subskrybowane za pomocą podwójnego potwierdzenia zgody, a reklamy są starannie dobierane. Firma nie współpracuje z reklamodawcami angażującymi się w masowe kampanie marketingowe ani nie promuje się poprzez spam. Adresy e-mail subskrybentów są bezpiecznie przechowywane przez certyfikowanych dostawców zewnętrznych i nie są sprzedawane ani wynajmowane innym podmiotom. Zgodnie z brytyjską ustawą o ochronie danych z 1998 roku, osoby mogą zażądać kopii informacji, które firma posiada na ich temat. W razie pytań lub sugestii można kontaktować się poprzez e-mail: team@cooperpress.com. Firma jest zarejestrowana w Anglii i posiada certyfikat PCI DSS.
+
+Link: https://cooperpress.com/legal/privacy/
+Streszczenie: Cooper Press Ltd kładzie duży nacisk na ochronę i poszanowanie prywatności swoich użytkowników, będąc świadomymi powierzonego zaufania. Do korzystania z niektórych usług konieczne jest podanie danych osobowych, takich jak imię, nazwisko, adres e-mail, a czasem także adres zamieszkania czy dane do fakturowania. Informacje te są zbierane za zgodą użytkownika i używane wyłącznie do celów, dla których zostały przekazane, zgodnie z brytyjską ustawą o ochronie danych osobowych z 1998 roku. Firma zobowiązuje się do niewchodzenia w posiadanie i przechowywania numerów kart kredytowych/debetowych, a także do nieudostępniania danych klientów osobom trzecim.
+
+Na stronach Cooper Press mogą pojawić się prośby o podanie danych osobowych w celu uzyskania określonych korzyści lub informacji. Do śledzenia sesji użytkowników na stronie wykorzystywane mogą być pliki cookies, ale nie są one używane do kontekstu reklamowego i ogólnie nie są bezpośrednio powiązane z użytkownikami.
+
+Firma korzysta z Google Analytics do śledzenia liczby odwiedzających, sposobu, w jaki trafili na stronę oraz które podstrony odwiedzają. Dane te są przetwarzane zgodnie z polityką prywatności Google.
+
+Cooper Press może wykorzystywać zgromadzone informacje do zarządzania relacjami z użytkownikami oraz do wysyłania e-maili z informacjami, które zostały przez nich zamówione, bądź z innymi informacjami i promocjami związanych z działalnością firmy. Informacje te są używane wyłącznie do określonych celów, dla których zostały zebrane.
+
+Firma może okresowo wysyłać ankiety lub bezpośrednie wiadomości w celu zarządzania procesami obsługi klienta. Cooper Press zobowiązuje się do nieudostępniania informacji ani adresów e-mail osobom trzecim, sponsorom ani do prowadzenia wyłącznie sponsorowanych wiadomości e-mail w imieniu osób trzecich.
+
+Informacje użytkowników nie będą ujawniane innym podmiotom bez zgody osoby, której dane dotyczą, chyba że istnieje wymóg ustawowy lub inny uzasadniony powód do ujawnienia informacji (np. zapobieganie lub wykrywanie przestępstw).
+
+W przypadku przejęcia Cooper Press lub jego aktywów przez inną firmę, polityka prywatności nowej firmy będzie miała zastosowanie do przejętych informacji.
+
+Firma nie zbiera i nie przechowuje informacji o dzieciach poniżej 13 roku życia. Jeśli użytkownik podejrzewa, że dane dziecka poniżej 13 lat znajdują się w bazie danych, proszony jest o natychmiastowy kontakt z firmą.
+
+Zgodnie z brytyjską ustawą o ochronie danych osobowych z 1998 roku, użytkownicy mają prawo do uzyskania wszystkie informacje, które firma posiada na ich temat, pod pewnymi warunkami prawymi.
+
+Cooper Press Ltd jest zarejestrowana w Anglii i spełnia normy zgodności PCI DSS.
+
